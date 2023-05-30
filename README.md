@@ -10,7 +10,7 @@
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.9-informational.svg">
   </a>
-  <a href="https://github.com/AstraaDev/Discord-All-Tools-In-One">
+  <a href="https://github.com/masked1337/Discord-BablGam-Nuker">
     <img src="https://img.shields.io/badge/covarage-95%25-green">
   </a>
   <a href="https://github.com/masked1337">

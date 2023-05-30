@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/covarage-95%25-green">
   </a>
   <a href="https://github.com/masked1337">
-    <img src="https://img.shields.io/github/repo-size/masked1337/Discord-BablGam-Nuker/Babl Gam v2.svg?label=Repo%20size&style=flat-square">
+    <img src="https://img.shields.io/github/repo-size/masked1337/Discord-BablGam-Nuker.svg?label=Repo%20size&style=flat-square">
   </a>
   <a href="https://github.com/masked1337">
     <img src="https://gpvc.arturio.dev/masked1337">

